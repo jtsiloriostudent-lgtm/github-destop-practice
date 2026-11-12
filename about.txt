@@ -6,5 +6,7 @@ hobbies;
 
 skill;
 html and Css
+communication skills
+problem solving skills
 
 course: BSIT 2nd year
